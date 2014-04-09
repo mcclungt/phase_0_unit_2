@@ -30,7 +30,7 @@ def separate_comma(num)
 		 	array[i] = ","
 		 end
 	end
-	string = array.reverse.join()
+	string = array.reverse.join
 	return string
 end
 
