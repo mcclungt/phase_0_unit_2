@@ -54,15 +54,3 @@ STATE_DATA = {  "Alabama" => {population_density: 94.65, population: 4822023, re
                 "Wisconsin" => {population_density: 105.2, population: 5726398, region: 4, regional_spread: 6},
                 "Wyoming" => {population_density: 5.851, population: 576412, region: 8, regional_spread: 6}
               }
-              
-              
-              
-              
-              
-              
-
-
-
-
-
-
