@@ -1,10 +1,11 @@
 # U2.W5: Virus Predictor
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge by myself.
 
 # EXPLANATION OF require_relative
-#
-#
+# Require relative checks to make sure that there is another file
+# in the same folder named the input. That file can now be referenced
+# with in the file.
 require_relative 'state_data'
 
 class VirusPredictor
