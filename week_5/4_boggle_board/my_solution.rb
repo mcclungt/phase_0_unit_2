@@ -79,7 +79,6 @@ def get_col(col)
 end
 # Refactored Solution
 
-
 # DRIVER TESTS GO BELOW THIS LINE
 puts get_col(1) ==  ["r", "o", "c", "a"]
 puts $boggle_board[0][1] == "r" # returns boggle_board[row_number][column_number]

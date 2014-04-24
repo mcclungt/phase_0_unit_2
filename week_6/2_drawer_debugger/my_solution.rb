@@ -38,9 +38,7 @@ class Drawer
 	end
 
 	def dump  # what should this method return? -- should empty the array
-		@contents.length.times do |x|
-			remove_item(@contents[0])
-		end
+		@contents.length.times {remove_item(@contents[0])}
 		puts "Your drawer is now empty."
 	end
 
